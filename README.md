@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Edouard144/leetsolutions/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/Edouard144/leetsolutions/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/Edouard144/leetsolutions/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -32,8 +33,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Edouard144/leetsolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/Edouard144/leetsolutions/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Edouard144/leetsolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Edouard144/leetsolutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Edouard144/leetsolutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
