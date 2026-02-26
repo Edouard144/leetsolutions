@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Edouard144/leetsolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/Edouard144/leetsolutions/tree/master/0060-permutation-sequence) |
 ## Graph Theory
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Edouard144/leetsolutions/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Edouard144/leetsolutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
