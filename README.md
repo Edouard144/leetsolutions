@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Edouard144/leetsolutions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Edouard144/leetsolutions/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/Edouard144/leetsolutions/tree/master/0037-sudoku-solver) |
 ## Trie
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Edouard144/leetsolutions/tree/master/0016-3sum-closest) |
 | [0202-happy-number](https://github.com/Edouard144/leetsolutions/tree/master/0202-happy-number) |
 ## Backtracking
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Edouard144/leetsolutions/tree/master/0024-swap-nodes-in-pairs) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Edouard144/leetsolutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
