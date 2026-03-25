@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Edouard144/leetsolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Edouard144/leetsolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Edouard144/leetsolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Edouard144/leetsolutions/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/Edouard144/leetsolutions/tree/master/0202-happy-number) |
 ## String
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Edouard144/leetsolutions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Edouard144/leetsolutions/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/Edouard144/leetsolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Edouard144/leetsolutions/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/Edouard144/leetsolutions/tree/master/0053-maximum-subarray) |
 ## Trie
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Edouard144/leetsolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Edouard144/leetsolutions/tree/master/0037-sudoku-solver) |
 ## Linked List
 |  |
