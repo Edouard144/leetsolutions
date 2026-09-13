@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Edouard144/leetsolutions/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/Edouard144/leetsolutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Edouard144/leetsolutions/tree/master/0075-sort-colors) |
+| [0835-image-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0835-image-overlap) |
 | [1331-rank-transform-of-an-array](https://github.com/Edouard144/leetsolutions/tree/master/1331-rank-transform-of-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Edouard144/leetsolutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Edouard144/leetsolutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Edouard144/leetsolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Edouard144/leetsolutions/tree/master/0037-sudoku-solver) |
+| [0835-image-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0835-image-overlap) |
 ## Linked List
 |  |
 | ------- |
