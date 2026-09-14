@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Edouard144/leetsolutions/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/Edouard144/leetsolutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Edouard144/leetsolutions/tree/master/0202-happy-number) |
+| [0836-rectangle-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0836-rectangle-overlap) |
 ## Recursion
 |  |
 | ------- |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Edouard144/leetsolutions/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
