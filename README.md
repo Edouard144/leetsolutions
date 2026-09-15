@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Edouard144/leetsolutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Edouard144/leetsolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Edouard144/leetsolutions/tree/master/0067-add-binary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Edouard144/leetsolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Edouard144/leetsolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Edouard144/leetsolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Edouard144/leetsolutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Edouard144/leetsolutions/tree/master/0202-happy-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Edouard144/leetsolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Edouard144/leetsolutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Edouard144/leetsolutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Edouard144/leetsolutions/tree/master/0053-maximum-subarray) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Edouard144/leetsolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Edouard144/leetsolutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Edouard144/leetsolutions/tree/master/0011-container-with-most-water) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Edouard144/leetsolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String Matching
 |  |
 | ------- |
