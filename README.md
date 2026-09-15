@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Edouard144/leetsolutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Edouard144/leetsolutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Edouard144/leetsolutions/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Edouard144/leetsolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Edouard144/leetsolutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Edouard144/leetsolutions/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0836-rectangle-overlap) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Edouard144/leetsolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Edouard144/leetsolutions/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/Edouard144/leetsolutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Edouard144/leetsolutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Edouard144/leetsolutions/tree/master/0075-sort-colors) |
 | [0835-image-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0835-image-overlap) |
 | [1331-rank-transform-of-an-array](https://github.com/Edouard144/leetsolutions/tree/master/1331-rank-transform-of-an-array) |
