@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Edouard144/leetsolutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Edouard144/leetsolutions/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Edouard144/leetsolutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Recursion
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Edouard144/leetsolutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Edouard144/leetsolutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Edouard144/leetsolutions/tree/master/0053-maximum-subarray) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Edouard144/leetsolutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Edouard144/leetsolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Edouard144/leetsolutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
@@ -226,9 +228,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Edouard144/leetsolutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3904-smallest-stable-index-ii](https://github.com/Edouard144/leetsolutions/tree/master/3904-smallest-stable-index-ii) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Edouard144/leetsolutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
