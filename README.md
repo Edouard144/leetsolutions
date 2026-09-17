@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Edouard144/leetsolutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Edouard144/leetsolutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Edouard144/leetsolutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Edouard144/leetsolutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Edouard144/leetsolutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Edouard144/leetsolutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Edouard144/leetsolutions/tree/master/0066-plus-one) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Edouard144/leetsolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Edouard144/leetsolutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Edouard144/leetsolutions/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Edouard144/leetsolutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Edouard144/leetsolutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Edouard144/leetsolutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Edouard144/leetsolutions/tree/master/0075-sort-colors) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Edouard144/leetsolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Edouard144/leetsolutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Edouard144/leetsolutions/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0835-image-overlap) |
 ## Linked List
 |  |
