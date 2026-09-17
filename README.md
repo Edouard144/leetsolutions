@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Edouard144/leetsolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Edouard144/leetsolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Edouard144/leetsolutions/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/Edouard144/leetsolutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Edouard144/leetsolutions/tree/master/0202-happy-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Edouard144/leetsolutions/tree/master/1331-rank-transform-of-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Edouard144/leetsolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Edouard144/leetsolutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Edouard144/leetsolutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Edouard144/leetsolutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Edouard144/leetsolutions/tree/master/0169-majority-element) |
 | [0835-image-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0835-image-overlap) |
 | [1331-rank-transform-of-an-array](https://github.com/Edouard144/leetsolutions/tree/master/1331-rank-transform-of-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Edouard144/leetsolutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -156,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Edouard144/leetsolutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Edouard144/leetsolutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Edouard144/leetsolutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Edouard144/leetsolutions/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/Edouard144/leetsolutions/tree/master/1331-rank-transform-of-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Edouard144/leetsolutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Edouard144/leetsolutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Edouard144/leetsolutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -251,4 +255,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Edouard144/leetsolutions/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Edouard144/leetsolutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Edouard144/leetsolutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
