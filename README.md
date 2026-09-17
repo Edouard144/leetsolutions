@@ -176,15 +176,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Edouard144/leetsolutions/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Edouard144/leetsolutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Edouard144/leetsolutions/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Edouard144/leetsolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Edouard144/leetsolutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Edouard144/leetsolutions/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Edouard144/leetsolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Edouard144/leetsolutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Edouard144/leetsolutions/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Edouard144/leetsolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Edouard144/leetsolutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Greedy
 |  |
