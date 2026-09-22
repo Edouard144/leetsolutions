@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Edouard144/leetsolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Edouard144/leetsolutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Edouard144/leetsolutions/tree/master/0043-multiply-strings) |
+| [0065-valid-number](https://github.com/Edouard144/leetsolutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Edouard144/leetsolutions/tree/master/0067-add-binary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Edouard144/leetsolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Edouard144/leetsolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
