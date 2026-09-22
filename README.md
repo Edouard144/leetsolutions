@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Edouard144/leetsolutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Edouard144/leetsolutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Edouard144/leetsolutions/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/Edouard144/leetsolutions/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Edouard144/leetsolutions/tree/master/1331-rank-transform-of-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Edouard144/leetsolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Edouard144/leetsolutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Edouard144/leetsolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Edouard144/leetsolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Edouard144/leetsolutions/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/Edouard144/leetsolutions/tree/master/0496-next-greater-element-i) |
 | [0835-image-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0835-image-overlap) |
 | [1331-rank-transform-of-an-array](https://github.com/Edouard144/leetsolutions/tree/master/1331-rank-transform-of-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Edouard144/leetsolutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Edouard144/leetsolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Edouard144/leetsolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Edouard144/leetsolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Edouard144/leetsolutions/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Edouard144/leetsolutions/tree/master/0069-sqrtx) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Edouard144/leetsolutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
