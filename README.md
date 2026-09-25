@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Edouard144/leetsolutions/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Edouard144/leetsolutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Edouard144/leetsolutions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Edouard144/leetsolutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Edouard144/leetsolutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Edouard144/leetsolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Edouard144/leetsolutions/tree/master/0088-merge-sorted-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Edouard144/leetsolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Edouard144/leetsolutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Edouard144/leetsolutions/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Edouard144/leetsolutions/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0835-image-overlap) |
 ## Linked List
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Edouard144/leetsolutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Edouard144/leetsolutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Edouard144/leetsolutions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Edouard144/leetsolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Edouard144/leetsolutions/tree/master/0070-climbing-stairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Edouard144/leetsolutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Edouard144/leetsolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
