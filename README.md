@@ -318,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Edouard144/leetsolutions/tree/master/0056-merge-intervals) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Edouard144/leetsolutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
