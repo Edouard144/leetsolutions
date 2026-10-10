@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Edouard144/leetsolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Edouard144/leetsolutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0835-image-overlap) |
 | [1331-rank-transform-of-an-array](https://github.com/Edouard144/leetsolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Edouard144/leetsolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Edouard144/leetsolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Edouard144/leetsolutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Edouard144/leetsolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Edouard144/leetsolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Edouard144/leetsolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Edouard144/leetsolutions/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/Edouard144/leetsolutions/tree/master/1331-rank-transform-of-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Edouard144/leetsolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Edouard144/leetsolutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Edouard144/leetsolutions/tree/master/0011-container-with-most-water) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Edouard144/leetsolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Edouard144/leetsolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String Matching
 |  |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Edouard144/leetsolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Edouard144/leetsolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Edouard144/leetsolutions/tree/master/0069-sqrtx) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Edouard144/leetsolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Edouard144/leetsolutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Enumeration
 |  |
