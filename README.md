@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Edouard144/leetsolutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Edouard144/leetsolutions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Edouard144/leetsolutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Edouard144/leetsolutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Edouard144/leetsolutions/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Edouard144/leetsolutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Edouard144/leetsolutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Edouard144/leetsolutions/tree/master/0097-interleaving-string) |
 | [0168-excel-sheet-column-title](https://github.com/Edouard144/leetsolutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Edouard144/leetsolutions/tree/master/0171-excel-sheet-column-number) |
 | [1021-remove-outermost-parentheses](https://github.com/Edouard144/leetsolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Edouard144/leetsolutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Edouard144/leetsolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
