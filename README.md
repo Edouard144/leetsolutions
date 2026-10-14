@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Edouard144/leetsolutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Edouard144/leetsolutions/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/Edouard144/leetsolutions/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/Edouard144/leetsolutions/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Edouard144/leetsolutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Edouard144/leetsolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
