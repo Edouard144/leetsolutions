@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/Edouard144/leetsolutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Edouard144/leetsolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Edouard144/leetsolutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3870-count-commas-in-range](https://github.com/Edouard144/leetsolutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Edouard144/leetsolutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Edouard144/leetsolutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
