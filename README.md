@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Edouard144/leetsolutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Edouard144/leetsolutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Edouard144/leetsolutions/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/Edouard144/leetsolutions/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Edouard144/leetsolutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Edouard144/leetsolutions/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Edouard144/leetsolutions/tree/master/0836-rectangle-overlap) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Edouard144/leetsolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Edouard144/leetsolutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Edouard144/leetsolutions/tree/master/0060-permutation-sequence) |
+| [0326-power-of-three](https://github.com/Edouard144/leetsolutions/tree/master/0326-power-of-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Edouard144/leetsolutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Graph Theory
 |  |
